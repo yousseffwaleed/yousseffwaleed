@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Youssef
 
-<!--
-**yousseffwaleed/yousseffwaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data & Software Specialist  
+📊 Data Engineering | Cloud | ETL Pipelines  
+📍 Calgary, Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about data engineering and cloud technologies
+- Working with AWS, Azure, Airflow, and Spark
+- Building data pipelines and analytics solutions
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Python, SQL
+- Cloud: AWS, Azure
+- Tools: Airflow, Docker, Git, Spark
+
+---
+
+## 📂 Projects
+- STEDI Data Lakehouse Project
+- Sparkify ETL Pipeline (Redshift + Airflow)
+- Industrial Time-Series Data Integration
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/yousseffwaleed
